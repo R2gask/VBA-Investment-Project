@@ -1,4 +1,4 @@
-# VBA-Investment-Project
+# HELP on VBA-Investment-Project
 You are a Financial Analyst, employed by a renowned investment fund. Your job is to create a portfolio of 5 projects. To do this, you will have to choose 5 projects from the proposed list (40 different projects - see tab P1 … P40) In order to create your investment portfolio, you have managed to raise €1,000,000. However, in order to perfect your investment you can use leverage. As such, you will find the bank loan conditions per tenor in the tab: Rate curve.
 
 Instructions & Tips:
